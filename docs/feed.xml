@@ -1,28 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<rss version="2.0">
   <channel>
-    <title>CARA HOCH 7 – GBP Feed</title>
-    <link>https://carahoch7.de</link>
-    <description>Automatisch generierter Feed aus Airtable</description>
-    <language>de-DE</language>
-    <lastBuildDate>Wed, 03 Dec 2025 16:49:32 +0100</lastBuildDate>
+    <title>GMB Automation Test Feed</title>
+    <link>https://meilanieho.github.io/gmbautomation/</link>
+    <description>Testfeed für Metricool</description>
+    <language>de-de</language>
+    <lastBuildDate>Mon, 01 Dec 2025 10:00:00 GMT</lastBuildDate>
 
     <item>
-  <title><![CDATA[Test]]></title>
- <link>test</link>
+      <title>Testeintrag für Metricool</title>
+      <link>https://example.com/test-metricool</link>
+      <description>Dies ist ein Testeintrag, um den RSS-Feed in Metricool zu initialisieren.</description>
+      <pubDate>Mon, 01 Dec 2025 10:00:00 GMT</pubDate>
+      <guid>test-metricool-1</guid>
+    </item>
 
-<!-- GUID: Post_ID > Airtable id > Zeitstempel -->
-  <guid isPermaLink="false">CaraGMB151225</guid>
-
-<pubDate>Mon, 15 Dec 2025 00:00:00 +0100</pubDate>
-
-<description><![CDATA[
-Test Double
-  ]]></description>
-
-<!-- Bild-Tags (bleiben harmlos, falls URL leer ist) -->
-  <enclosure url="https://v5.airtableusercontent.com/v3/u/47/47/1764784800000/l5UA8cH8oeP7OJ_t0hMmlA/AyRFVJgOIxXj-lLScup6cK_G_oox0gnu89AiQHXK1stnumhFb1FE9ny9b4RdDluSVjFfYH1Je8avsEtDTOib08EEtTK2OtVvEUi8FTLHm-b7niH6XlUmyeq4cwf4xpWctTrTZfQZYXM2Pp7v1C2H8RbAqt6wcE1uKYxJYY47RN1aeJUHDv2SjhevlTNHhnxz/Djg_QqKL69Oxo3lKLONYS8No7zkoZHHycexs4OhKhps" type="image/jpeg"/>
-  <media:content url="https://v5.airtableusercontent.com/v3/u/47/47/1764784800000/l5UA8cH8oeP7OJ_t0hMmlA/AyRFVJgOIxXj-lLScup6cK_G_oox0gnu89AiQHXK1stnumhFb1FE9ny9b4RdDluSVjFfYH1Je8avsEtDTOib08EEtTK2OtVvEUi8FTLHm-b7niH6XlUmyeq4cwf4xpWctTrTZfQZYXM2Pp7v1C2H8RbAqt6wcE1uKYxJYY47RN1aeJUHDv2SjhevlTNHhnxz/Djg_QqKL69Oxo3lKLONYS8No7zkoZHHycexs4OhKhps" medium="image" />
-</item>
   </channel>
 </rss>
